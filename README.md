@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yoneoa
-- 👀 I’m interested in Data Science and Data Engineering
+- 👀 I’m interested in Application Development, Data Science, and Data Engineering
 - 🌱 I’m currently learning Kubernetes
 
 <!---
